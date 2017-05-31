@@ -1,0 +1,7 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/scottpschaffer/.nuget/packages"
+    ]
+  }
+}

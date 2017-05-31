@@ -1,0 +1,13 @@
+/Users/scottpschaffer/workspace/Codewars/First/Cipher.Tests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/scottpschaffer/workspace/Codewars/First/Cipher.Tests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/scottpschaffer/workspace/Codewars/First/Cipher.Tests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/scottpschaffer/workspace/Codewars/First/Cipher.Tests/bin/Debug/netcoreapp1.1/Cipher.Tests.deps.json
+/Users/scottpschaffer/workspace/Codewars/First/Cipher.Tests/bin/Debug/netcoreapp1.1/Cipher.Tests.runtimeconfig.json
+/Users/scottpschaffer/workspace/Codewars/First/Cipher.Tests/bin/Debug/netcoreapp1.1/Cipher.Tests.runtimeconfig.dev.json
+/Users/scottpschaffer/workspace/Codewars/First/Cipher.Tests/bin/Debug/netcoreapp1.1/Cipher.Tests.dll
+/Users/scottpschaffer/workspace/Codewars/First/Cipher.Tests/bin/Debug/netcoreapp1.1/Cipher.Tests.pdb
+/Users/scottpschaffer/workspace/Codewars/First/Cipher.Tests/bin/Debug/netcoreapp1.1/Cipher.dll
+/Users/scottpschaffer/workspace/Codewars/First/Cipher.Tests/bin/Debug/netcoreapp1.1/Cipher.pdb
+/Users/scottpschaffer/workspace/Codewars/First/Cipher.Tests/obj/Debug/netcoreapp1.1/Cipher.Tests.AssemblyInfo.cs
+/Users/scottpschaffer/workspace/Codewars/First/Cipher.Tests/obj/Debug/netcoreapp1.1/Cipher.Tests.dll
+/Users/scottpschaffer/workspace/Codewars/First/Cipher.Tests/obj/Debug/netcoreapp1.1/Cipher.Tests.pdb
