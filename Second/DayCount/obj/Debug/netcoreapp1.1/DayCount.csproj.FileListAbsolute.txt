@@ -1,0 +1,8 @@
+/Users/scottpschaffer/workspace/Codewars/Second/DayCount/bin/Debug/netcoreapp1.1/DayCount.deps.json
+/Users/scottpschaffer/workspace/Codewars/Second/DayCount/bin/Debug/netcoreapp1.1/DayCount.runtimeconfig.json
+/Users/scottpschaffer/workspace/Codewars/Second/DayCount/bin/Debug/netcoreapp1.1/DayCount.runtimeconfig.dev.json
+/Users/scottpschaffer/workspace/Codewars/Second/DayCount/bin/Debug/netcoreapp1.1/DayCount.dll
+/Users/scottpschaffer/workspace/Codewars/Second/DayCount/bin/Debug/netcoreapp1.1/DayCount.pdb
+/Users/scottpschaffer/workspace/Codewars/Second/DayCount/obj/Debug/netcoreapp1.1/DayCount.AssemblyInfo.cs
+/Users/scottpschaffer/workspace/Codewars/Second/DayCount/obj/Debug/netcoreapp1.1/DayCount.dll
+/Users/scottpschaffer/workspace/Codewars/Second/DayCount/obj/Debug/netcoreapp1.1/DayCount.pdb
