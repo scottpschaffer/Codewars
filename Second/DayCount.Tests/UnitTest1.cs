@@ -9,7 +9,7 @@ namespace DayCount.Tests
         public void Test1_2DaysAgo()
         {
             Day TwoDaysAgo = new Day();
-            Assert.Equal("The day is in the past!", TwoDaysAgo.countDays(new DateTime(2017,6,3)));
+            Assert.Equal("The day is in the past!", TwoDaysAgo.countDays(new DateTime(2017,6,5)));
         }
 
         [Fact]
